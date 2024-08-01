@@ -39,7 +39,7 @@
 <!-- Technologies and Tools -->
 ## Technologies and Tools
 
-<p>
+<p align="center">
   
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
