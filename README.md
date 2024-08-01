@@ -1,8 +1,4 @@
-<style>
-  #skills{
-    display:flex
-  }
-</style>
+
 <!-- Intro -->
 <h3 align="center">
   <samp>&gt; Hey there, I'm
@@ -44,7 +40,7 @@
 <!-- Technologies and Tools -->
 ## Technologies and Tools
 
-<p align="center" id='skills'>
+<p align="center" >
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React" />&nbsp;&nbsp;
