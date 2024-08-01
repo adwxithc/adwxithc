@@ -1,3 +1,8 @@
+<style>
+  #skills{
+    display:flex
+  }
+</style>
 <!-- Intro -->
 <h3 align="center">
   <samp>&gt; Hey there, I'm
@@ -32,15 +37,14 @@
 <!-- About Section -->
 ## About Me
 
-<p>  
+<p align="center">  
   As a driven full-stack developer, I specialize in creating impactful web solutions with a focus on innovation and quality. My journey has been marked by hands-on experience in diverse industrial projects, where I've honed my skills in every aspect of development—from design conception to seamless hosting solutions. Passionate about staying ahead in technology trends, I'm committed to delivering exceptional results that elevate user engagement and business success.
 </p>
 
 <!-- Technologies and Tools -->
 ## Technologies and Tools
 
-<p align="center">
-  
+<p align="center" id='skills'>
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React" />&nbsp;&nbsp;
@@ -69,7 +73,6 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Data_Structures-006400?style=for-the-badge" alt="Data Structures" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />&nbsp;&nbsp;
-  
 </p>
 
 
