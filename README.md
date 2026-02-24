@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://adwaith.vercel.app" target="_blank">
+  <a href="https://adwaith-cheekoli.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Portfolio Website" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adwaith-c-25b5a0218" target="_blank">
