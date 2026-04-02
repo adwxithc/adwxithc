@@ -78,4 +78,4 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />&nbsp;&nbsp;
 </p>
 
-Thanks for checking out my GitHub profile!. 🚀
+Thanks for checking out my GitHub profile! 🚀
